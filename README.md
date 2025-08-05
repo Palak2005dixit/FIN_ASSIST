@@ -18,7 +18,7 @@ The goal of this project is to make financial literacy **accessible, personalize
 
 ## 👨‍💻 Intern Details
 - **Name:** Palak Dixit
-- **Institute:** **Krishna Institute of Technology Kanpur Nagar**
+- **Institute:** ## Krishna Institute of Technology Kanpur Nagar
 - **Duration:** 4 Weeks (15th July 2025 to 7th August 2025)
 
 ## 📖 About the Internship
