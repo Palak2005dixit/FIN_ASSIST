@@ -1,7 +1,7 @@
 
-# FinSaathi AI – Digital Financial Literacy Assistant
+# FIN_ASSIST – Digital Financial Literacy Assistant
 
-This repository documents the capstone project **FinSaathi AI**, developed during the **IBM SkillsBuild 4-Weeks Internship on AI & Cloud Technologies**. The internship was a collaborative initiative by the **Edunet Foundation**, **AICTE**, and **IBM SkillsBuild**.
+This repository documents the capstone project **FIN_ASSIST**, developed during the **IBM SkillsBuild 4-Weeks Internship on AI & Cloud Technologies**. The internship was a collaborative initiative by the **Edunet Foundation**, **AICTE**, and **IBM SkillsBuild**.
 
 The goal of this project is to make financial literacy **accessible, personalized, and secure**, helping users understand digital finance tools like UPI, avoid online scams, and manage personal budgets through the power of AI.
 
@@ -17,8 +17,8 @@ The goal of this project is to make financial literacy **accessible, personalize
 - [📁 Repository Contents](#-repository-contents)
 
 ## 👨‍💻 Intern Details
-- **Name:** Amar Deep Jha
-- **Institute:** [Your College Name Here]
+- **Name:** Palak Dixit
+- **Institute:** Krishna Institute of Technology Kanpur Nagar
 - **Duration:** 4 Weeks (15th July 2025 to 7th August 2025)
 
 ## 📖 About the Internship
@@ -29,13 +29,13 @@ This internship provided practical exposure to AI and Cloud technologies using I
 - Week 2: Data analytics, Cloud EDA, hands-on labs
 - Week 3-4: Agentic AI labs, watsonx.ai, Retrieval-Augmented Generation (RAG), Granite LLMs
 
-## 💡 Project: FinSaathi AI – Digital Financial Literacy Assistant
+## 💡 Project: FIN_ASSIST – Digital Financial Literacy Assistant
 
 ### Problem Statement
 Millions of people are unfamiliar with digital financial tools like UPI, secure banking, and online fraud protection. The lack of awareness results in financial vulnerability and missed opportunities for safe digital transactions.
 
 ### Solution Overview
-FinSaathi AI is an AI-powered assistant built using IBM watsonx.ai and Granite models. It uses RAG (Retrieval-Augmented Generation) to retrieve reliable financial education content and answer user queries in multiple languages. It covers:
+FIN_ASSIST is an AI-powered assistant built using IBM watsonx.ai and Granite models. It uses RAG (Retrieval-Augmented Generation) to retrieve reliable financial education content and answer user queries in multiple languages. It covers:
 - UPI usage and safety
 - Online scam awareness
 - Budgeting and saving strategies
@@ -57,13 +57,13 @@ FinSaathi AI is an AI-powered assistant built using IBM watsonx.ai and Granite m
 6. Deployed the AI Agent and validated its multilingual response capabilities.
 
 ## 📊 Results
-FinSaathi AI successfully answered diverse financial questions using RAG + Granite LLM. The project empowers users with digital financial knowledge in an easy and interactive format.
+FIN_ASSIST successfully answered diverse financial questions using RAG + Granite LLM. The project empowers users with digital financial knowledge in an easy and interactive format.
 
 <img src="https://github.com/user-attachments/assets/sample_finsaathi_1.png" alt="Demo Screenshot 1" />
 <img src="https://github.com/user-attachments/assets/sample_finsaathi_2.png" alt="Demo Screenshot 2" />
 
 ## 📁 Repository Contents
-- `FinSaathi_Agent_Notebook.ipynb`: Agent development notebook inside watsonx.ai
+- `FIN_ASSIST_Agent_Notebook.ipynb`: Agent development notebook inside watsonx.ai
 - `README.md`: This file
 - `RBI_UPI_User_Guide.docx`: Knowledge base document for UPI education
 - `Financial_Fraud_Awareness_Brochure.docx`: Educational content on online frauds
