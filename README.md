@@ -18,7 +18,7 @@ The goal of this project is to make financial literacy **accessible, personalize
 
 ## 👨‍💻 Intern Details
 - **Name:** Palak Dixit
-- **Institute:** (Krishna Institute of Technology Kanpur Nagar)
+- **Institute:** **Krishna Institute of Technology Kanpur Nagar**
 - **Duration:** 4 Weeks (15th July 2025 to 7th August 2025)
 
 ## 📖 About the Internship
@@ -65,7 +65,7 @@ FIN_ASSIST successfully answered diverse financial questions using RAG + Granite
 <img src="https://github.com/Palak2005dixit/FIN_ASSIST/blob/main/img4.png" alt="Demo Screenshot 4" />
 
 ## 📁 Repository Contents
-- `FIN_ASSIST_Agent_Notebook.ipynb`: Agent development notebook inside watsonx.ai
+- `FIN_ASSIST_Standard_Notebook.ipynb`: Agent development notebook inside watsonx.ai
 - `README.md`: This file
 - `RBI_UPI_User_Guide.docx`: Knowledge base document for UPI education
 - `Financial_Fraud_Awareness_Brochure.docx`: Educational content on online frauds
