@@ -18,7 +18,7 @@ The goal of this project is to make financial literacy **accessible, personalize
 
 ## 👨‍💻 Intern Details
 - **Name:** Palak Dixit
-- **Institute:** Krishna Institute of Technology Kanpur Nagar
+- **Institute:** (Krishna Institute of Technology Kanpur Nagar)
 - **Duration:** 4 Weeks (15th July 2025 to 7th August 2025)
 
 ## 📖 About the Internship
@@ -59,8 +59,10 @@ FIN_ASSIST is an AI-powered assistant built using IBM watsonx.ai and Granite mod
 ## 📊 Results
 FIN_ASSIST successfully answered diverse financial questions using RAG + Granite LLM. The project empowers users with digital financial knowledge in an easy and interactive format.
 
-<img src="https://github.com/user-attachments/assets/sample_finsaathi_1.png" alt="Demo Screenshot 1" />
-<img src="https://github.com/user-attachments/assets/sample_finsaathi_2.png" alt="Demo Screenshot 2" />
+<img src="https://github.com/Palak2005dixit/FIN_ASSIST/blob/main/IMg1.png" alt="Demo Screenshot 1" />
+<img src="https://github.com/Palak2005dixit/FIN_ASSIST/blob/main/img2.png" alt="Demo Screenshot 2" />
+<img src="https://github.com/Palak2005dixit/FIN_ASSIST/blob/main/img3.png" alt="Demo Screenshot 3" />
+<img src="https://github.com/Palak2005dixit/FIN_ASSIST/blob/main/img4.png" alt="Demo Screenshot 4" />
 
 ## 📁 Repository Contents
 - `FIN_ASSIST_Agent_Notebook.ipynb`: Agent development notebook inside watsonx.ai
